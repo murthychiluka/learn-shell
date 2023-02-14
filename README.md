@@ -6,3 +6,4 @@ Shell Scripting Topics.
 1. Printing
 2. Comments
 ```
+East or west Aadvik is the bestie
