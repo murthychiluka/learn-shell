@@ -7,3 +7,4 @@ Shell Scripting Topics.
 2. Comments
 ```
 East or west Aadvik is the bestie
+Murthy is real hero
