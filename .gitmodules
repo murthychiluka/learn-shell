@@ -1,3 +1,6 @@
 [submodule "roboshop-shell"]
 	path = roboshop-shell
 	url = https://github.com/murthychiluka/roboshop-shell.git
+[submodule "Roboshop-dummy"]
+	path = Roboshop-dummy
+	url = https://github.com/murthychiluka/Roboshop-dummy.git
