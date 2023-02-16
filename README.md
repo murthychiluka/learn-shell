@@ -10,3 +10,5 @@ East or west Aadvik is the bestie
 Murthy is real hero
 
 Sircilla
+
+Kareemnagar   Telangana
