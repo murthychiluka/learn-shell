@@ -1,0 +1,3 @@
+[submodule "roboshop-shell"]
+	path = roboshop-shell
+	url = https://github.com/murthychiluka/roboshop-shell.git
