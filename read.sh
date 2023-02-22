@@ -1,2 +1,7 @@
-read -p 'enter your name' name
-echo "your name is $name"
+# When we need a prompt for input
+
+read -p 'Enter your name: ' name
+
+echo "Your Name = $name"
+
+## Read command will fail for automation because manual intervention is required
