@@ -11,3 +11,12 @@ xyz() {
 # call a function
 xyz 123 456
 echo  value of b=$b
+
+abc() {
+  echo Hello
+  return 109
+  echo Bye
+}
+
+abc
+echo Exit Status of abc function = $?
